@@ -8,4 +8,4 @@ async def start(client, message):
                 ])
 
 	help_image = config.HPIC
-	await message.reply_photo(help_image,  caption="**💡 English HELP 📃...**\n \n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n \n======================\n \n**💡__ \n__•  😊 This bot is fully free.__\n`•⚙ Don't pay anyone for Bots like this.`\n\n",reply_markup=BotzHub)
+	await message.reply_photo(help_image,  caption="**💡 English HELP 📃...**\n \n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n \n======================\n \n**💡 __\n\n•••••••••••••••••••••••\n__• 😊 This bot is fully free.__\n`•⚙ Don't pay anyone for Bots like this.`\n\n",reply_markup=alpha2)
